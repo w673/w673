@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi! I'm a master's student in the Department of Automation, Tsinghua University, where I also received my bachelor's degree. My research interests lie in embodied intelligence, with a particular focus on Vision-Language-Action (VLA) models, robot learning, and their deployment in real-world robotic systems.
 <!--
 **w673/w673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
